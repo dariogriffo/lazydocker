@@ -7,7 +7,7 @@ linters:
     - goimports
     - tparallel
     - wastedassign
-    - exportloopref
+    - copyloopvar
     - unparam
     - prealloc
     - unconvert
