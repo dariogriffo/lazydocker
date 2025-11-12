@@ -62,7 +62,7 @@ changelog:
 
 brews:
   - tap:
-      owner: jesseduffield
+      owner: dariogriffo
       name: homebrew-lazydocker
 
     # Your app's homepage.
